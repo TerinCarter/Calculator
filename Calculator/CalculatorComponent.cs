@@ -8,10 +8,6 @@ namespace Calculator
 {
     public class CalculatorComponent
     {
-        public int testMethod ()
-        {
-            return 0;
-        }
         public int Add(int a, int b)
         {
             return a + b;
